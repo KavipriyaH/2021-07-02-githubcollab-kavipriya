@@ -4,3 +4,5 @@
 - 'git status':- helps to know the status
 - 'git add <file>' : adds <file> to the staging area
 - 'git commit':ncreates a commit, you provide msg
+- 'git status clear' : used to show the status that have been done
+
